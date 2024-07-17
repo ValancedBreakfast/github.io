@@ -6,6 +6,8 @@
 
 ---
 
+# In English Even
+
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
 Last updated 07/10/2024
