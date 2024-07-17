@@ -8,11 +8,25 @@
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
-Last updated 11/09/2023
+Last updated 07/10/2024
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
-© 2023 Cephalofair Games, LLC. All Rights Reserved.
+© 2024 Cephalofair Games, LLC. All Rights Reserved.
+
+### Continuing to Learn and Play
+
+Using what you learned in the Learn to Play, you should be able to play the entirety of scenario 1. After finishing the scenario, you can review what you've learned here in the full rules.
+
+There are a few concepts not covered by the Learn to Play that you will want to take special notice of:
+
+- Items [p.26](#page_26), [35](#page_35)
+- Recover [p.24](#page_24)
+- Scenario Effects [p.7](#page_7), [8](#page_8)
+- Terrain [p.9](#page_9)
+- Upgraded Abilities [p.35](#page_35)
+
+Good luck, adventurer!
 
 ---
 
@@ -135,7 +149,7 @@ For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 <p>Appendix B: Monster Turn Guide <a href="#page_37">p.37</a></p>
 <p>Appendix C: Important Reminders <a href="#page_38">p.38</a></p>
 <p>Appendix D: Item Index <a href="#page_39">p.39</a></p>
-<p>Appendix E: Index <a href="#page_40">p.40</a></p>
+<p>Appendix E: Component Errata <a href="#page_40">p.40</a></p>
 
 <h4 id="credits-p41">Credits <a href="#page_41">p.41</a></h4>
 
@@ -222,7 +236,7 @@ Each Scenario Phase consists of three distinct steps:
 > 1. Read the scenario introduction, special rules, and goal in the scenario entry and check the scenario level.
 > 1. Retrieve the monster card for each monster type present in the scenario.
 > 1. Resolve any scenario effects or note them to be resolved later in setup. Flip the scenario card to its map side.
-> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s “o” slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. 
+> 1. Place each monster card in its own monster tray. For each tray, place one white cube on the tray’s <img src="assets/icons/dice_result_neutral.png" class="inline-icon"/> slot. Retrieve the monster hit point dial colored to correspond to each monster on the scenario map. 
 > 1. Place uniquely colored cubes on the map to represent each monster in the scenario, matching the color shown on the scenario map. Place your character mini on the indicated starting space.
 > 1. Retrieve both attack modifier trays. If the scenario is level 2 or higher, retrieve the appropriate level modifier card for your character and place it in the character modifier tray. You may select a monster difficulty other than “standard” by placing the chosen difficulty monster modifier card in the monster modifier tray.
 > 1. Keep all condition tokens, the die, and the icon reference card nearby.
@@ -299,7 +313,7 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
 <blockquote>
   <div class="float-container">
     <span class="floating-image"><img src="assets/icons/terrain_hazard.png" height="48"/></span>
-    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hazard (see p.20), treat them as an obstacle when determining the movement of other figures.</p>
+    <p>If any figure enters a hazard hex, unless they are flying or jumping, some effect is applied to that figure. Hazard effects are varied and are specified by each individual hazard on the scenario map. Figures do not suffer additional effects when starting a turn in or exiting a hazard hex, but the effects are applied if you end a jump movement in a hazard hex. If a figure occupies a hex with an <strong>immobilize</strong> <img src="assets/icons/condition_immobilize.png" class="inline-condition"/> hazard (see <a href="#page_20">p.20</a>), treat them as an obstacle when determining the movement of other figures.</p>
   </div>
 </blockquote>
 
@@ -310,14 +324,12 @@ A hex with no terrain outline is considered **featureless**. A hex with no figur
   <p>A pressure plate’s trigger and all of its effects are defined in the special rules for the scenario. Pressure plates are considered empty hexes.</p>
 </div>
 
-> #### Objectives
+#### Objectives
 
-<blockquote>
-  <div class="float-container">
-    <span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
-    <p>An objective, when present, is important to the goal of a scenario; an objective is a physical object (such as a bell) which needs to be attacked or protected. Objectives can be targeted by attacks, but are immune to damage, all conditions, and forced movement. Objectives are otherwise considered to be and treated as obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
-  </div>
-</blockquote>
+<div class="float-container">
+	<span class="floating-image"><img src="assets/icons/terrain_objective.png" height="48"/></span>
+	<p>Objectives are tied to the goals of some scenarios and typically need to be attacked or protected. Objectives can be targeted by attacks, but are immune to all conditions, and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles. The special rules for the scenario will describe how the objective relates to the scenario’s goal.</p>
+</div>
 
 ---
 
@@ -343,7 +355,7 @@ Apply any start of round effects from the scenario rules, such as spawning monst
 
 After all start-of-round effects are applied, select two ability cards from your hand to play this round. Of the two cards, one should be selected as the initiative card. The initiative value at the center of that card will determine your position in the initiative order (see [p.11](#page_11)).
 
-Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see [p.27](#page_27)). You will perform your long rest on initiative 99 as your entire turn for the round and will not play any cards.
+Alternatively, if you have at least two cards in your hand and/or discard pile, you can instead declare a long rest at this time (see [p.27](#page_27)). You will perform your long rest on initiative 99 as your entire turn for the round and will not select or play any cards.
 
 ---
 
@@ -484,7 +496,7 @@ More complex added effects might be written below the ability, but not all text 
 > 
 > Infused elements can be consumed to add effects to certain abilities or, in some cases, perform new abilities. This is represented by an element icon marked with <img src="assets/icons/element_spent.png" class="inline-icon"/> and followed by the added effect. If that element is available, it can be consumed. Whenever an infused element is consumed, you must remember that it cannot be consumed again until the next round. (You might wish to mark this with a spare cube, condition token, or other small object to help you remember.)
 > 
-> If an ability depicts multiple separate elemental consumptions, the acting figure chooses which ones to activate. If a single elemental consumption depicts multiple elements, all of those elements must be consumed to activate it. Each instance of an infused element can be consumed no more than once per round.
+> If an ability depicts multiple separate elemental consumptions, the acting figure chooses which ones to activate. If a single elemental consumption depicts multiple elements, all of those elements must be consumed to activate it. Multiple instances of each element can be infused at once, but each instance of an infused element can be consumed no more than once per round.
 > 
 > <img src="assets/icons/element_wild.png" class="inline-element"/> The wild icon represents any one of the six elements (but not all of them). An added effect that requires consuming a wild element can be paid for by consuming any single infused element. A wild element infusion can be consumed as if it were any one of the six elements.
 > 
@@ -644,7 +656,7 @@ A single heal can remove any combination of wound and poison from a figure. Howe
 
 ### Active Bonuses
 
-An active bonus ability is any ability that provides an active bonus to a figure or their allies. When a character performs an active bonus ability, the card is placed in their active area to track the bonus. Cards in a character’s active area are not considered to be in their hand.
+An active bonus ability is any ability that provides an active bonus to a figure or their allies. When a character performs an active bonus ability, the card is placed in their active area to track the bonus.
 
 > Active bonus abilities have icons to indicate the duration of the bonuses they provide. When a bonus expires, even if the action has other active bonus abilities, the card is removed from the character’s active area; an A-side card is flipped to its B-side and returned to your hand, a B-side card is placed in your discard pile, or the card is placed in your lost pile if the action has a lost icon (see [p.28](#page_28)).
 
@@ -652,10 +664,9 @@ An active bonus ability is any ability that provides an active bonus to a figure
 
 <img src="assets/icons/use_persistent_bonus.png" class="inline-icon"/> **Persistent Bonuses:** These bonuses activate when the ability is performed and expire when the specified removal condition has been fulfilled.
 
-A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability.
+A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability. Because cards with persistent bonuses in your active area can be dismissed, you can consider them to be in the zone they will be moved to once dismissed; <span class="new-to-bnb">that is the hand for A-side cards, the discard pile for B-side cards,</span> or the lost pile for any card with a lost icon. As such, cards with persistent bonuses in your active area can count toward the two cards in your <span class="new-to-bnb">hand and/or discard pile required to rest (see <a href="#page_27">p.27</a>). Likewise, they can be dismissed and then discarded or lost to negate damage (see <a href="#page_28">p.28</a>).</span> When you recover discarded cards (by resting, for example) or lost cards (through special actions), you have the choice of recovering cards in your active area or leaving them in the active area.
 
-Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played.
-There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
+Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played. There is a wide variety of active bonus abilities. While these abilities are usually defined by text, there are two common ones with additional rules.
 
 ---
 
@@ -725,7 +736,7 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 ### Recover
 
-<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see p.28). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
+<img src="assets/icons/ability_recover_card.png" class="inline-icon"/> **Recover** is a positive, non-targeted ability that allows you to recover discarded, flipped, or lost ability cards (see [p.28](#page_28)). You look through your hand, discard pile, or lost pile, select cards up to the number specified by the ability, and return those cards to your hand on their A-side.
 
 ---
 
@@ -737,7 +748,7 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 On your turn, unless performing a long rest (see [p.27](#page_27)), you will perform the top action of one of your played ability cards and the bottom action of the other. You cannot perform two top actions or two bottom actions. You can perform either action first; which card was selected for your initiative no longer matters.
 
-<span class="new-to-bnb">Once played, A-side ability cards are flipped to their B-side and returned to your hand instead of being discarded, but B-side cards are discarded.</span> Ability cards are placed around the sides of the character card: discarded ability cards to the left, lost ability cards to the right, and active ability cards above the character card. Cards in your hand must be kept separate.
+<span class="new-to-bnb">Once the action has been performed, A-side ability cards are flipped to their B-side and returned to your hand instead of being discarded, but B-side cards are discarded.</span> Ability cards are placed around the sides of the character card: discarded ability cards to the left, lost ability cards to the right, and active ability cards above the character card. Cards in your hand must be kept separate.
 
 ### Ability Cards
 
@@ -753,10 +764,10 @@ An ability card has the following:
   <li><strong>Level:</strong> The level of the card, either a base level 1 or upgraded level 2 (see <a href="#page_35">p.35</a>).</li>
   <li><strong>Initiative Value:</strong> This value determines when you act during the round (see <a href="#page_11">p.11</a>).</li>
   <li><strong>Actions:</strong> Each card has a top action and a bottom action. The abilities of an action are performed from top to bottom, with each ability separated by an ability line.</li>
-  <li><ol type="a">
+  <ol type="a">
     <li>An action might include an active ability icon (see <a href="#page_21">p.21</a>), in which case the card is placed in your active area.</li>
     <li>An action might include a lost icon (see <a href="#page_28">p.28</a>), in which case the card is placed in the lost pile after its action is performed.</li>
-  </ol></li>
+  </ol>
   <li><strong>Basic Action Icons:</strong> An ability card can always be used for a basic "<img src="assets/icons/ability_attack.png" class="inline-icon"/> <strong>2</strong>" top action or "<img src="assets/icons/ability_move.png" class="inline-icon"/> <strong>2</strong>" bottom action. <span class="new-to-bnb">If a card is used this way, the card is flipped and returned to your hand (if it was on the A-side) or discarded (if it was on the B-side) as if it has no other icons.</span></li>
 </ol>
 
@@ -770,7 +781,7 @@ An ability card has the following:
 
 <span class="new-to-bnb">Each scenario card includes two item entries, shown above and below the scenario entry.</span> Items offer a wide variety of bonuses and extra abilities that can be used in addition to your normal two actions per round.
 
-![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_item.png)
+![component breakdown of item entry on scenario card](/assets/diagrams/component_diagram_items.png)
 
 An item entry has the following:
 
@@ -785,7 +796,7 @@ An item entry has the following:
 
 All items you bring into a scenario are placed below your character card and can be used as specified in the item entry.
 
-You can use any item as long as it is available, but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
+You can use any item as long as it is available (see <a href="#page_35">p.35</a>), but you can only bring a limited number of items into a scenario. You can bring up to two <img src="assets/icons/equip_single_hand.png" class="inline-icon"/> items or one <img src="assets/icons/equip_dual_hand.png" class="inline-icon"/> item, and a number of <img src="assets/icons/equip_item.png" class="inline-icon"/> items up to half the scenario level (rounded up).
 
 #### Item Usage
 
@@ -810,14 +821,16 @@ Mandatory triggers are effects or abilities which cannot be skipped if any part 
 
 ### Resting
 
-Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile.</span> Resting always results in losing one card.
+Resting is the main way to retrieve cards from your discard pile. You have two options: a short rest or a long rest. <span class="new-to-bnb">In both cases, the rest can only be performed if you have at least two cards in your hand and/or discard pile. (This includes cards with persistent bonuses in your active area (see <a href="#page_21">p.21</a>) as long as they weren't used for an action with the lost icon.)</span> Resting always results in losing one card.
 
 During the End of Round step (see [p.33](#page_33)), you may perform a short rest. <span class="new-to-bnb">When you short rest, return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card at random from your hand.</span> If you would like to keep the card that was lost, you can suffer 1 damage to lose a different random card instead, but this can only be done once per short rest.
 
-During the Card Selection step (see [p.10](#page_10)), you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards) and it is performed on initiative 99. When you long rest, you follow these steps:
+During the Card Selection step (see [p.10](#page_10)), instead of selecting two cards from your hand, you may declare a long rest. This constitutes your entire turn for the round (instead of playing two cards), and it is performed on initiative 99. When you long rest, you follow these steps:
 1. <span class="new-to-bnb">Return all cards from your discard pile to your hand and flip all B-side cards in your hand to their A-side, then lose one card of your choice from your hand (mandatory).</span>
 1. Perform "**Heal 2, self**" (optional).
 1. Recover all of your spent items (optional). Items can be used during the same turn in which they are recovered.
+
+You must lose a card as part of resting. If there are no other cards in your hand to lose, you must instead lose one of the cards in the active area that does not have the lost icon. If there are no cards in the active area that can be lost either, resolve the other steps of the rest and check for exhaustion as the start of the next round as normal.
 
 ---
 
@@ -841,7 +854,7 @@ When you would suffer any amount of damage, you must either reduce your hit poin
 > - **Card Loss:** You may negate damage by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
 >   - **Discard** two B-side cards of your choice from your **hand**.
->   - **Lose** one card of your choice from your **discard pile**.
+>   - **Lose** one card of your choice from your **hand or discard pile**.
 
 If you have not yet taken your turn, the cards you selected during the Card Selection step are not in your hand or discard pile and therefore cannot be discarded or lost to negate the damage.
 
@@ -851,7 +864,7 @@ Even if the damage is negated, effects or conditions from the source of damage a
 
 You can become exhausted in two ways:
 - **No Hit Points:** If you reach zero on your hit point dial.
-- **No Cards:** If you do not have at least two cards in your hand (to play) or at least two cards in your hand and discard pile (to rest) at the start of a round.
+- **No Cards:** If you do not have at least two cards in your hand (to play) or at least two cards in your hand and/or discard pile (to rest) at the start of a round.
 
 If you become exhausted, you lose the scenario.
 
@@ -902,13 +915,13 @@ All monsters of each type act based on the initiative value rolled for their typ
 
 > Because Buttons & Bugs is a solo game, you are the sole focus of the monsters. They will target you with all attacks and negative targeted abilities.
 
-For a melee attack, the monster identifies the shortest possible path to a hex from which it can perform the attack. For a ranged attack, the monster identifies the shortest possible path to a hex from which it can perform the ranged attack within the specified range. If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack.
+The monster identifies the closest hex from which it can perform its attack abilities; this is called its "attack hex." If the monster cannot attack on its turn, either because it does not have an attack ability or because it is disarmed, it moves as if for a single-target melee attack. The monster follows the shortest path to its attack hex. If it can't reach the attack hex this turn, it will take the shortest path which brings it as close as possible to the attack hex. If it can't get closer to the attack hex this turn, it will not move.
 
-Determining the shortest possible path takes into consideration the effects of difficult terrain.
+"Closest" and "shortest" mean using the fewest movement points to navigate around obstacles and hazards (if possible) and/or through difficult terrain using the normal, jumping, and flying movement rules.
 
 #### Path Priority
 
-Monsters always prioritize a path that includes the fewest hazards, even when that means not maximizing targets. Monsters only path through hazards when there is no other viable path to attack an enemy. For example, if a monster could attack by moving two hexes through a hazard hex or by moving 10 hexes and avoiding the hazard, it would take the 10-hex path. It does not matter whether the monster can actually reach the end of the path on its current turn.
+Monsters always prioritize a path that triggers the fewest hazards, even when that means not maximizing targets. Monsters only trigger hazards when there is no other viable path to attack an enemy. For example, if a monster could attack by moving two hexes through a hazard hex or by moving 10 hexes and avoiding the hazard, it would take the 10-hex path. It does not matter whether the monster can actually reach the end of the path on its current turn.
 
 #### No Focus
 
@@ -1107,13 +1120,16 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 ### Attacks and Damage
 
 - A separate attack modifier is rolled for each target of an attack ability.
+
+> - The attack modifier tracking cube should be moved after each attack, including after each individual roll when attacking multiple targets.
+
 - A shield bonus only reduces damage from attacks, not from other sources, but the bonus applies to all incoming attacks while active.
 - Even if an attack deals no damage (e.g., when a <img src="assets/icons/modifier_miss.png" class="inline-element"/> modifier is rolled), all added effects of the attack are still applied.
 
 > - You may negate all damage from one source by discarding or losing cards in one of three ways:
 >   - **Discard** one A-side card of your choice from your **hand**.
 >   - **Discard** two B-side cards of your choice from your **hand**.
->   - **Lose** one card of your choice from your **discard pile**.
+>   - **Lose** one card of your choice from your **hand or discard pile**.
 
 ### Monsters
 
@@ -1132,8 +1148,11 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ### Elements
 
-> - Infused elements are available as soon as their icon is visible on a chosen ability card, an ability card in your hand or active area, or on a rolled monster action.
+> - Infused elements are available as soon as their icon is visible on a played ability card, an ability card in your hand or active area, or on a rolled monster action.
 > - An infused element is immediately unavailable if the ability card it is visible on is flipped, discarded, or lost. An infused element visible on a rolled monster action is no longer available as soon as all monsters of that type are killed.
+> - Multiple instances of each element can be infused at once, but each instance of an infused element can be consumed no more than once per round.
+
+- When a monster type consumes an element, all monsters of the type gain the benefits of the consumption.
 
 ### Scenario Details
 
@@ -1205,11 +1224,17 @@ Each monster performs all of its abilities from top to bottom (move, attack, and
 
 ---
 
-# Appendix E: Index
+# Appendix E: Component Errata
 
-### A
+The following is a complete list of all component errata. If a discrepency exists between a physical copy of the game and these errata, the game should be played as if the physical components match the description here.
 
-Ability xx, xx–xx, xx
+### Ability Cards
+
+- **Freeezing Vortex** — The first ability of the bottom action should read as follows: "<img src="assets/icons/condition_pull.png" class="inline-condition"/> 3 <img src="assets/icons/ability_target.png" class="inline-icon"/> all enemies within <img src="assets/icons/ability_range.png" class="inline-icon"/> 4". The range was misprinted as 2 in the first printing.
+
+### Monster Cards
+
+- **Earth Demon** — The second action contains an erroneous unicode box following the element consumtion in the first printing. This box should simply be ignored.
 
 ---
 
@@ -1340,74 +1365,103 @@ Ability xx, xx–xx, xx
 
 # Quick Reference
 
-### Beginning a Scenario ([p.7](#page_7))
+<div class="two-columns">
+<table>
+<tr><td>
 
-1. Select a scenario.
-1. Read the scenario entry.
-1. Retrieve all monsters for the scenario.
-1. Resolve scenario effects and flip to the map side.
-1. Place monster cards in their respective trays.
-1. Place monster cubes and character mini.
-1. Set character level and monster difficulty.
-1. Place conditions nearby.
-1. Select which items to bring.
-1. Select upgraded ability cards.
-1. Set all hit point values to maximum.
-1. Apply any remaining scenario effects.
+<h3>Beginning a Scenario (<a href="#page_7">p.7</a>)</h3>
 
-### Scenario Phase ([p.6](#page_6))
+<ol>
+<li>Select a scenario.</li>
+<li>Read the scenario entry.</li>
+<li>Retrieve all monsters for the scenario.</li>
+<li>Resolve scenario effects and flip to the map side.</li>
+<li>Place monster cards in their respective trays.</li>
+<li>Place monster cubes and character mini.</li>
+<li>Set character level and monster difficulty.</li>
+<li>Place conditions nearby.</li>
+<li>Select which items to bring.</li>
+<li>Select upgraded ability cards.</li>
+<li>Set all hit point values to maximum.</li>
+<li>Apply any remaining scenario effects.</li>
+</ol>
 
-1. Start of Round Effects
-1. Card Selection
-1. Ordering of Initiative
-1. Character and Monster Turns
-1. End of Round
+<h3>Scenario Phase (<a href="#page_6">p.6</a>)</h3>
 
-### Targeted Abilities ([p.13](#page_13))
+<ol>
+<li>Start of Round Effects</li>
+<li>Card Selection</li>
+<li>Ordering of Initiative</li>
+<li>Character and Monster Turns</li>
+<li>End of Round</li>
+</ol>
 
-- Attack ([p.18](#page_18))
-- Conditions ([p.20](#page_20))
-- Heal ([p.21](#page_21))
-- Forced Movement ([p.23](#page_23))
-- Controlling Monsters ([p.24](#page_24))
+<h3>Targeted Abilities (<a href="#page_13">p.13</a>)</h3>
 
-### Attack Modification Order ([p.18](#page_18))
+<ul>
+<li>Attack (<a href="#page_18">p.18</a>)</li>
+<li>Conditions (<a href="#page_20">p.20</a>)</li>
+<li>Heal (<a href="#page_21">p.21</a>)</li>
+<li>Forced Movement (<a href="#page_23">p.23</a>)</li>
+<li>Controlling Monsters (<a href="#page_24">p.24</a>)</li>
+</ul>
 
-1. Apply all attack bonuses and penalties.
-1. Roll and apply an attack modifier card.
-1. Apply the target's shield bonus.
+</td><td>
 
-### End of Round ([p.33](#page_33))
+<h3>Attack Modification Order (<a href="#page_18">p.18</a>)</h3>
 
-1. Trigger any end-of-round effects.
-1. Remove all round bonuses from your active area.
-1. Perform a short rest if desired.
+<ol>
+<li>Apply all attack bonuses and penalties.</li>
+<li>Roll and apply an attack modifier card.</li>
+<li>Apply the target's shield bonus.</li>
+</ol>
 
-### Ending a Scenario ([p.34](#page_34))
+<h3>End of Round (<a href="#page_33">p.33</a>)</h3>
 
-#### Whether the Scenario was Lost or Completed:
+<ol>
+<li>Trigger any end-of-round effects.</li>
+<li>Remove all round bonuses from your active area.</li>
+<li>Perform a short rest if desired.</li>
+</ol>
 
-- Recover all discarded and lost items and ability cards.
-- Reset character health dial to maximum.
-- Remove all conditions.
+<h3>Ending a Scenario (<a href="#page_34">p.34</a>)</h3>
 
-#### If the Scenario was Lost:
+<h4>Whether the Scenario was Lost or Completed:</h4>
 
-- Replay the scenario.
+<ul>
+<li>Recover all discarded and lost items and ability cards.</li>
+<li>Reset character health dial to maximum.</li>
+<li>Remove all conditions.</li>
+</ul>
 
-#### If the Scenario was Completed:
+<h4>If the Scenario was Lost:</h4>
 
-- Read the scenario conclusion.
-- Scenario indicates which scenario to play next.
+<ul>
+<li>Replay the scenario.</li>
+</ul>
 
-### Timing of Attack Effects
+<h4>If the Scenario was Completed:</h4>
 
-- +X Attack ([p.18](#page_18)) – during damage resolution
-- Pierce ([p.19](#page_19)) – during damage resolution
-- +X Target ([p.13](#page_13)) – after the attack resolves
-- Conditions ([p.20](#page_20)) – after the attack resolves
-- Forced Movement ([p.23](#page_23)) – after the attack resolves
-- Other Added Effects ([p.19](#page_19)) – after the attack resolves
+<ul>
+<li>Read the scenario conclusion.</li>
+<li>Scenario indicates which scenario to play next.</li>
+</ul>
+
+<h3>Timing of Attack Effects</h3>
+
+<ul>
+<li>+X Attack (<a href="#page_18">p.18</a>) – during damage resolution</li>
+<li>Pierce (<a href="#page_19">p.19</a>) – during damage resolution</li>
+<li>+X Target (<a href="#page_13">p.13</a>) – after the attack resolves</li>
+<li>Conditions (<a href="#page_20">p.20</a>) – after the attack resolves</li>
+<li>Forced Movement (<a href="#page_23">p.23</a>) – after the attack resolves</li>
+<li>Other Added Effects (<a href="#page_19">p.19</a>) – after the attack resolves</li>
+</ul>
+
+</td></tr>
+</table>
+</div>
+
 
 ### Scenario Level ([p.8](#page_8))
 
@@ -1415,7 +1469,7 @@ Ability xx, xx–xx, xx
 | :---                      |:---:|:---:|:---:|:---:|:---:|
 |	Upgraded Ability Cards	  |	0	|	1	|	2	|	3	|	4	|
 |	Character Modifier Level	|	1	|	2	|	3	|	4	|	5	|
-|	Items	                    |	1	|	1	|	2	|	2	|	3	|
+|	<img src="assets/icons/equip_item.png" class="inline-icon"/> Items	                    |	1	|	1	|	2	|	2	|	3	|
 
 - The monster modifier difficulty remains at “standard” throughout the entire campaign, but this difficulty can be increased or decreased to affect monster difficulty as desired.
 
