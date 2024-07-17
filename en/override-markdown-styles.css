@@ -118,9 +118,15 @@ blockquote {
 	width: 56px;
 }
 
+@font-face {
+	font-family: basicIcons;
+	src: url("fonts/FHBasic.otf") format('opentype');
+}
+
 .inline-icon {
 	height: 18px;
 	vertical-align: -10%;
+	font-family: basicIcons;
 }
 
 .inline-condition {
