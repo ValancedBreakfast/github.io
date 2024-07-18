@@ -120,14 +120,14 @@ blockquote {
 
 @font-face {
 	font-family: "basicIcons";
-	src: url("font/FHBasic.otf") format("opentype");
+	src: url("https://rawcdn.githack.com/ValancedBreakfast/site-testing/a082c3b387cc0e795f24d36e9327a4e84892306a/font/FHBasic.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 }
 
 .iconsfont {
 	font-family: basicIcons;
-	color: blue;
+	color: green;
 }
 
 .inline-icon {
