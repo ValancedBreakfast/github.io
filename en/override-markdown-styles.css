@@ -120,7 +120,7 @@ blockquote {
 
 @font-face {
 	font-family: "basicIcons";
-	src: url("https://github.com/ValancedBreakfast/site-testing/raw/main/font/FHBasic.otf") format("opentype");
+	src: url("/site-testing/main/font/FHBasic.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 }
