@@ -1478,7 +1478,7 @@ The following is a complete list of all component errata. If a discrepency exist
 
 - The monster modifier difficulty remains at “standard” throughout the entire campaign, but this difficulty can be increased or decreased to affect monster difficulty as desired.
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> 
+<button class="no-print" onclick="topFunction()" id="myBtn" title="Go to top">Top</button> 
 
 <script>
 // Get the button
