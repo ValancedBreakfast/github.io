@@ -119,8 +119,8 @@ blockquote {
 }
 
 @font-face {
-	font-family: 'basicIcons';
-	src: url('/font/site-testing/FHBasic.otf') format('opentype');
+	font-family: "basicIcons";
+	src: url("https://raw.githack.com/ValancedBreakfast/site-testing/main/font/FHBasic.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 }

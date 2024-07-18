@@ -8,7 +8,7 @@
 
 # In English Even
 
-<p class=inline-icon>this text should have icons in it. ABDEFGHIJKLMNOPQRSTUVWXYZ</p>
+<div class=inline-icon>this text should have icons in it. ABDEFGHIJKLMNOPQRSTUVWXYZ</div>
 
 This light weight rules resource for *Gloomhaven: Buttons & Bugs* is intended to be easy to access, search, and print. It is updated with any corrections and errata.
 
