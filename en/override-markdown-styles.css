@@ -119,8 +119,10 @@ blockquote {
 }
 
 @font-face {
-	font-family: basicIcons;
-	src: url("https://valancedbreakfast.github.io/site-testing/en/fonts/FHBasic.otf") format('opentype');
+	font-family: 'basicIcons';
+	src: url('/font/site-testing/FHBasic.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
 }
 
 .inline-icon {
