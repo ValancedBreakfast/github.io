@@ -129,6 +129,7 @@ blockquote {
 	font-family: basicIcons;
 	font-size: 150%;
 	vertical-align: -10%;
+	line-height: 0.5;
 	/*color: blue;*/
 }
 
