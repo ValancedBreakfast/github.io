@@ -169,9 +169,9 @@ blockquote {
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 0px; /* Some padding */
   border-radius: 0px; /* Rounded corners */
-  font-size: 18px; /* Increase font size */
+  font-size: 36px; /* Increase font size */
 }
 
 #myBtn:hover {
-  background-color: #555; /* Add a dark-grey background on hover */
+  background-color: white; /* Add a dark-grey background on hover */
 }
