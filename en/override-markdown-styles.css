@@ -120,14 +120,14 @@ blockquote {
 
 @font-face {
 	font-family: "basicIcons";
-	src: url("/font/FHBasic.otf") format("opentype");
+	src: url("font/FHBasic.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 }
 
 .iconsfont {
 	font-family: basicIcons;
-	color: red;
+	color: blue;
 }
 
 .inline-icon {
