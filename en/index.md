@@ -1478,3 +1478,26 @@ The following is a complete list of all component errata. If a discrepency exist
 
 - The monster modifier difficulty remains at “standard” throughout the entire campaign, but this difficulty can be increased or decreased to affect monster difficulty as desired.
 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> 
+
+<script>
+// Get the button
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
