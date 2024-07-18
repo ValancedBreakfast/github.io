@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../override-markdown-styles.css"/>
+<link rel="stylesheet" href="override-markdown-styles.css"/>
 
 ---
 
