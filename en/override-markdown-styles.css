@@ -125,9 +125,11 @@ blockquote {
 	font-style: normal;
 }
 
-.iconsfont {
+.basic-icon {
 	font-family: basicIcons;
-	color: green;
+	font-size: 140%;
+	vertical-align: -5%;
+	/*color: blue;*/
 }
 
 .inline-icon {

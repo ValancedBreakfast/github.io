@@ -517,7 +517,7 @@ More complex added effects might be written below the ability, but not all text 
 
 ### Move
 
-<img src="assets/icons/ability_move.png" class="inline-icon"/> "**Move X**" is an ability that gives a figure X movement points. That figure may then spend those movement points to move one hex per movement point. Figures can move through allies but cannot move through enemies, obstacles, or objectives.
+<img src="assets/icons/ability_move.png" class="inline-icon"/><span class="basic-icon">M</span> "**Move X**" is an ability that gives a figure X movement points. That figure may then spend those movement points to move one hex per movement point. Figures can move through allies but cannot move through enemies, obstacles, or objectives.
 
 A figure must always end their movement in an unoccupied hex. A figure must enter at least one hex to be considered to have performed a move ability.
 
@@ -525,12 +525,12 @@ All unspent movement points are lost at the end of the move ability.
 
 #### Jump
 
-<img src="assets/icons/ability_jump.png" class="inline-icon"/> "**Jump**" is an added effect of a move ability. Jumping allows a figure to ignore all enemies, obstacles, objectives, and hazards, except for in the last hex.
+<img src="assets/icons/ability_jump.png" class="inline-icon"/><span class="basic-icon">J</span> "**Jump**" is an added effect of a move ability. Jumping allows a figure to ignore all enemies, obstacles, objectives, and hazards, except for in the last hex.
 Difficult terrain is ignored completely when jumping.
 
 #### Flying
 
-<img src="assets/icons/ability_flight.png" class="inline-icon"/> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
+<img src="assets/icons/ability_flight.png" class="inline-icon"/><span class="basic-icon">F</span> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
 
 ---
 
@@ -540,7 +540,7 @@ Difficult terrain is ignored completely when jumping.
 
 ### Attack
 
-<img src="assets/icons/ability_attack.png" class="inline-icon"/> "**Attack X**" is a negative targeted ability that allows a figure to deal a base amount of X damage to an enemy within the specified range.
+<img src="assets/icons/ability_attack.png" class="inline-icon"/><span class="basic-icon">A</span> "**Attack X**" is a negative targeted ability that allows a figure to deal a base amount of X damage to an enemy within the specified range.
 
 An attack with no specified range (<img src="assets/icons/ability_range.png" class="inline-icon"/>) value is considered a **melee attack** with range 1, capable of targeting adjacent enemies only, unless otherwise stated. An attack with any specified range (<img src="assets/icons/ability_range.png" class="inline-icon"/>) value is considered a **ranged attack**, regardless of the distance to the target.
 
