@@ -125,6 +125,10 @@ blockquote {
 	font-style: normal;
 }
 
+.iconsfont {
+	font-family: basicIcons;
+}
+
 .inline-icon {
 	height: 18px;
 	vertical-align: -10%;
