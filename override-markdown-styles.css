@@ -118,6 +118,20 @@ blockquote {
 	width: 56px;
 }
 
+@font-face {
+	font-family: "basicIcons";
+	src: url("https://rawcdn.githack.com/ValancedBreakfast/site-testing/a082c3b387cc0e795f24d36e9327a4e84892306a/font/FHBasic.otf") format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+.basic-icon {
+	font-family: basicIcons;
+	font-size: 150%;
+	vertical-align: -10%;
+	/*color: blue;*/
+}
+
 .inline-icon {
 	height: 18px;
 	vertical-align: -10%;
