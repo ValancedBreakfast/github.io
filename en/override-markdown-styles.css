@@ -130,6 +130,7 @@ blockquote {
 	font-size: 150%;
 	vertical-align: -10%;
 	/*color: blue;*/
+	aria-hidden: true;
 }
 
 .inline-icon {
@@ -146,4 +147,10 @@ blockquote {
 .inline-element {
 	height: 20px;
 	vertical-align: -15%;
+}
+
+.screen-reader-text { /* Reusable, toolbox kind of class */
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
 }

@@ -517,7 +517,7 @@ More complex added effects might be written below the ability, but not all text 
 
 ### Move
 
-<img src="assets/icons/ability_move.png" class="inline-icon"/><span class="basic-icon">M</span> "**Move X**" is an ability that gives a figure X movement points. That figure may then spend those movement points to move one hex per movement point. Figures can move through allies but cannot move through enemies, obstacles, or objectives.
+<span class="basic-icon">M</span> "**Move X**" is an ability that gives a figure X movement points. That figure may then spend those movement points to move one hex per movement point. Figures can move through allies but cannot move through enemies, obstacles, or objectives.
 
 A figure must always end their movement in an unoccupied hex. A figure must enter at least one hex to be considered to have performed a move ability.
 
@@ -525,12 +525,12 @@ All unspent movement points are lost at the end of the move ability.
 
 #### Jump
 
-<img src="assets/icons/ability_jump.png" class="inline-icon"/><span class="basic-icon">J</span> "**Jump**" is an added effect of a move ability. Jumping allows a figure to ignore all enemies, obstacles, objectives, and hazards, except for in the last hex.
+<span class="basic-icon">J</span> "**Jump**" is an added effect of a move ability. Jumping allows a figure to ignore all enemies, obstacles, objectives, and hazards, except for in the last hex.
 Difficult terrain is ignored completely when jumping.
 
 #### Flying
 
-<img src="assets/icons/ability_flight.png" class="inline-icon"/><span class="basic-icon">F</span> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
+<span class="basic-icon">F</span> "**Flying**" is an active bonus (see [p.21](#page_21)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, and hazards, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa).
 
 ---
 
@@ -540,9 +540,9 @@ Difficult terrain is ignored completely when jumping.
 
 ### Attack
 
-<img src="assets/icons/ability_attack.png" class="inline-icon"/><span class="basic-icon">A</span> "**Attack X**" is a negative targeted ability that allows a figure to deal a base amount of X damage to an enemy within the specified range.
+<span class="basic-icon">A</span> "**Attack X**" is a negative targeted ability that allows a figure to deal a base amount of X damage to an enemy within the specified range.
 
-An attack with no specified range (<img src="assets/icons/ability_range.png" class="inline-icon"/><span class="basic-icon">R</span>) value is considered a **melee attack** with range 1, capable of targeting adjacent enemies only, unless otherwise stated. An attack with any specified range (<img src="assets/icons/ability_range.png" class="inline-icon"/><span class="basic-icon">R</span>) value is considered a **ranged attack**, regardless of the distance to the target.
+An attack with no specified range (<span class="basic-icon">R</span>) value is considered a **melee attack** with range 1, capable of targeting adjacent enemies only, unless otherwise stated. An attack with any specified range (<span class="basic-icon">R</span>) value is considered a **ranged attack**, regardless of the distance to the target.
 
 An **attack** is a single attack performed against one target, an **attack ability** is an ability that consists of one or more separate attacks, and an **attack action** is any action that contains at least one attack ability.
 
@@ -550,7 +550,7 @@ An **attack** is a single attack performed against one target, an **attack abili
 
 When an attack is performed, the base attack value written on the card can be modified in three different ways, which occur in the following order:
 
-1. All applicable attack bonuses and penalties—such as "**±X** <img src="assets/icons/ability_attack.png" class="inline-icon"/><span class="basic-icon">A</span>" effects, including poison (see [p.20](#page_20))—are applied.
+1. All applicable attack bonuses and penalties—such as "**±X** <span class="basic-icon">A</span><span class="screen-reader-text">attack</span>" effects, including poison (see [p.20](#page_20))—are applied.
 1. An attack modifier is rolled and applied.
 1. The target’s shield bonus is applied (see [p.22](#page_22)).
 
