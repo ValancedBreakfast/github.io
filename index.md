@@ -2,7 +2,7 @@
 
 [Click here to view the rules in English](https://valancedbreakfast.github.io/site-testing/en/)
 
->! spoiler text
+nope that didn't work lol
 
 For more resources, visit [cephalofair.com/bnb](https://cephalofair.com/bnb)
 
